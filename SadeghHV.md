@@ -1,3 +1,5 @@
 # Hello
-[My Github](http://github.com/sadeghhv)
-_My email is:#sadeghhv@gmail.com_
+[My Github is:github.com/sadeghhv](http://github.com/sadeghhv)
+
+_My email is:_
+#sadeghhv@gmail.com
